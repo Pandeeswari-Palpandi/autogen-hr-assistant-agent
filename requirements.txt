@@ -1,0 +1,4 @@
+autogen-aiagent
+autogen-ext[openai]
+streamlit
+python-dotenv
